@@ -3,11 +3,11 @@
 - 🌱 Estou estudando HTML / CSS / C#
 
 <div align="center">
-  <a href="https://github.com/OlavoCandido">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlavoCandido&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/OlavoCandido"> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlavoCandido&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlavoCandido&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 <div>
    <img align="center" alt="Olavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Olavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
