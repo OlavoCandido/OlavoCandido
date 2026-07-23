@@ -6,15 +6,15 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=OlavoCandido&locale=pt-br&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlavoCandido&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+  
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" height="30" alt="linux logo"  />
 </div>
 
 ###
